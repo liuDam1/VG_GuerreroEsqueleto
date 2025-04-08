@@ -1,0 +1,29 @@
+# Historia
+
+## 《骷髅荒途：骑士归来》
+
+在一片被黑暗魔法长久笼罩的古老大陆，有一片令人闻风丧胆的荒芜之地 —— 骷髅荒原。这里常年弥漫着腐朽的气息，阴森的雾气在破败的城堡与残垣断壁间穿梭，地上散落着无数惨白的骷髅，仿佛在诉说着往昔的惨烈与绝望。
+
+艾瑞克，一位年轻但坚毅的骑士，来自遥远的光明王国。他听闻骷髅荒原曾是富饶的土地，却因邪恶魔法师的诅咒而沦为这般地狱般的景象，无数无辜生命消逝，百姓生活在水深火热之中。心怀正义与使命感的艾瑞克，毅然决然地踏上了这片危机四伏的骷髅荒途，发誓要打破诅咒，拯救这片土地。
+
+当艾瑞克踏入荒原，扑面而来的便是令人作呕的腐臭。他警惕地握紧手中的长剑，盾牌上闪耀着光明王国的徽记。没走多远，一群被诅咒复活的骷髅士兵便从四面八方涌出，它们空洞的眼窝中闪烁着幽绿的光，发出令人毛骨悚然的嘶吼，挥舞着锈迹斑斑的武器向艾瑞克扑来。艾瑞克毫无惧色，他身形矫健，长剑挥舞间寒光闪烁，每一次出击都精准地砍碎骷髅的骨骼。战斗中，艾瑞克巧妙地利用地形，时而躲避在残墙后，时而借助巨石的掩护发起突袭。经过一番苦战，他终于将这群骷髅士兵全部消灭，但自己也已有些疲惫，身上添了几处伤口。
+
+继续深入荒原，艾瑞克遭遇了更为强大的敌人 —— 骷髅法师。这些法师漂浮在空中，周身环绕着诡异的黑色魔法火焰。他们口中念念有词，一道道黑色的闪电向艾瑞克劈来。艾瑞克灵活地跳跃、闪躲，同时寻找着进攻的机会。他发现骷髅法师的魔法攻击虽然强大，但在施法的间隙有短暂的破绽。于是，艾瑞克瞅准时机，一个箭步冲向其中一名骷髅法师，在黑色闪电即将击中他的瞬间，挥剑斩断了法师的魔杖。失去魔杖的骷髅法师瞬间失去魔力，化作一堆碎骨。艾瑞克乘胜追击，运用自己的智慧和勇气，逐一击败了其他骷髅法师。
+
+随着深入，艾瑞克发现了邪恶魔法师的踪迹。在荒原深处的一座黑暗城堡中，邪恶魔法师正准备施展更为强大的魔法，将整个大陆都拖入无尽的黑暗。艾瑞克毫不犹豫地闯入城堡，与邪恶魔法师展开了最终对决。邪恶魔法师施展各种强大的黑暗魔法，巨大的黑色触手从地下钻出，试图困住艾瑞克；黑色的火焰如汹涌的潮水般向他扑来。艾瑞克在这重重危机中，凭借着顽强的意志和精湛的剑术，一次次化险为夷。他不断地向邪恶魔法师靠近，终于，在一场激烈的交锋后，艾瑞克抓住了邪恶魔法师的破绽，一剑刺向他的心脏。邪恶魔法师发出一声惨叫，倒地身亡，笼罩在骷髅荒原上的黑暗魔法瞬间消散。
+
+阳光重新洒在这片荒芜的土地上，枯萎的植物开始复苏，流淌着黑色污水的河流也逐渐变得清澈。艾瑞克看着这片逐渐恢复生机的土地，心中满是欣慰。他拖着疲惫但坚定的步伐，踏上了归乡之路。当他回到光明王国时，百姓们夹道欢迎，欢呼着他的名字。艾瑞克，这位勇敢的骑士，历经骷髅荒途的重重磨难，终于荣耀归来，成为了人们心中的英雄，他的故事也在这片大陆上世代传颂。
+
+## 《El Camino de los Esqueletos: El Regreso del Caballero》
+
+En un antiguo continente sumido durante mucho tiempo en la oscuridad mágica, había un lugar desolado que hacía temblar a cualquiera: la Llanura de los Esqueletos. Allí, un hedor putrefacto flotaba permanentemente en el aire, y una niebla siniestra se deslizaba entre los ruinosos castillos y las paredes derruidas. En el suelo se esparcían innumerables esqueletos pálidos, como si estuvieran contando la tristeza y la desesperación del pasado.
+
+Eric, un joven caballero pero lleno de firmeza, provenía del lejano Reino de la Luz. Había oído decir que la Llanura de los Esqueletos había sido antaño una tierra fértil, pero debido a la maldición de un maligno mago se había convertido en este infierno. Innumerables vidas inocentes habían desaparecido y el pueblo vivía en una situación difícil. Con justicia y sentido de la misión en el corazón, Eric se embarcó decididamente en este peligroso camino lleno de esqueletos, jurando romper la maldición y salvar esta tierra.
+
+Cuando Eric pisó la llanura, un hedor nauseabundo le golpeó en la cara. Agarró firmemente su espada larga y en su escudo brillaba el emblema del Reino de la Luz. No había caminado mucho cuando, de todas partes, surgieron un grupo de soldados esqueletos resucitados por la maldición. Sus ojazos vacíos brillaban con una luz verde fosforescente y emitían espeluznantes rugidos mientras blandían sus armas oxidadas hacia Eric. Él no mostró ningún miedo, su cuerpo era ágil y, al blandir su espada, destellos de luz helada se reflejaban. Cada ataque era preciso y rompía los huesos de los esqueletos. Durante la batalla, Eric utilizó hábilmente el terreno, a veces se escondía detrás de una pared derruida y, otras, aprovechaba la protección de una roca para lanzar ataques sorpresa. Después de una dura lucha, logró derrotar a todo este grupo de soldados esqueletos, pero él también estaba algo cansado y tenía varias heridas en el cuerpo.
+
+Siguiendo adelante hacia el interior de la llanura, Eric se encontró con enemigos aún más poderosos: los magos esqueletos. Estos flotaban en el aire, rodeados de llamas mágicas negras y siniestras. Mientras murmuraban palabras incomprensibles, lanzaban relámpagos negros hacia Eric. Él saltaba y se esquivaba con agilidad, buscando al mismo tiempo la oportunidad de atacar. Descubrió que, aunque los ataques mágicos de los magos esqueletos eran poderosos, tenían breves momentos de vulnerabilidad cuando lanzaban sus hechizos. Así, Eric aprovechó el momento oportuno, dio un paso rápido hacia uno de los magos esqueletos y, en el instante en que el relámpago negro iba a golpearlo, cortó con su espada el bastón del mago. El mago esqueleto sin bastón perdió de inmediato su poder y se convirtió en un montón de huesos rotos. Eric siguió avanzando y, utilizando su inteligencia y su valentía, derrotó uno por uno a los demás magos esqueletos.
+
+A medida que avanzaba, Eric descubrió las huellas del maligno mago. En un oscuro castillo en lo profundo de la llanura, el maligno mago estaba a punto de lanzar un hechizo aún más poderoso para sumir todo el continente en la oscuridad eterna. Eric no dudó y entró corriendo al castillo para enfrentarse al maligno mago en una batalla final. El maligno mago lanzó una variedad de hechizos oscuros: enormes tentáculos negros salían del suelo tratando de atrapar a Eric; las llamas negras se abatían como una marea turbulenta hacia él. Eric, en medio de estas múltiples crisis, se mantuvo firme gracias a su férrea voluntad y a su hábil destreza con la espada, superando una y otra vez los peligros. Continuó acercándose al maligno mago y, finalmente, después de una intensa lucha, Eric atrapó la debilidad del maligno mago y le clavó su espada en el corazón. El maligno mago lanzó un grito lastimero y cayó muerto. En ese instante, la oscuridad mágica que cubría la Llanura de los Esqueletos desapareció de inmediato.
+
+La luz del sol volvió a brillar sobre esta tierra desolada. Las plantas marchitas comenzaron a revivir y los ríos que antaño fluían con aguas negras se volvieron gradualmente cristalinos. Eric miró esta tierra que se iba recuperando poco a poco y se sintió satisfecho. Caminó con paso cansado pero firme en el camino de regreso a su hogar. Cuando llegó al Reino de la Luz, el pueblo lo recibió con una multitud aplaudiendo y gritando su nombre. Eric, este valiente caballero, tras pasar por numerosas dificultades en el camino de los esqueletos, finalmente regresó con gloria y se convirtió en el héroe en el corazón del pueblo. Su historia se transmitió de generación en generación en todo este continente.
