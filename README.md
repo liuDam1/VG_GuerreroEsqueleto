@@ -1,7 +1,10 @@
 # VG_GuerreroEsqueleto
 
 # Índice
+- [Índice](#índice)
 - [Introducción](#introducción)
+- [Conceptualización](#conceptualización)
+
 
 # Introducción
 El proyecto "VG_GuerreroEsqueleto" es un juego hecho con Godot, de estilo aventura, que combina acción, exploración y narrativa en un mundo oscuro y fantasioso. El jugador encarna a Eric, un valiente caballero del Reino de la Luz, que se adentra en la temida Llanura de los Esqueletos para derrotar a un poderoso mago oscuro y liberar la tierra de una maldición ancestral.
