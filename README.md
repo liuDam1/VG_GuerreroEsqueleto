@@ -34,3 +34,28 @@ Este documento presenta una visión completa del juego: su historia, las dificul
 - **Generación de fondo mediante IA**
     - La imagen de fondo principal fue generada con inteligencia artificial.
     <img src="/Recursos/Multimedia/CapturaIA.png">
+
+# Problemas
+
+## Dificultades con los cactus y la vida
+
+A la hora de seguir los pasos de los apuntes, al llegar a la parte de cactus y de la vida me ha costado bastante en resolver el problema.
+
+<img src="./Recursos/Multimedia/VidaMoneda.png">
+
+* Al llegar a ese apartado pienso que para mostrar moneda es lo mismo para mostrar la vida por lo tanto lo hice en la misma escena.
+
+<img src="./Recursos/Multimedia/CaptusVidaCodigo.png">
+
+* En el script igual, pero a la hora de hacer la relación con el jugador me ha costado, porque los métodos eran en inglés y como se me daba muy mal inglés me ha costado entender las cosas y cómo hacer referencias.
+* Pero luego ya he descubierto a lo largo de investigando y traduciendo las cosas.
+
+
+<img src="./Recursos/Multimedia/ProblevaVIda.png">
+
+
+* Vemos que al agrandar la pantalla el corazón de la vida no se ajusta y no he podido descubrir cómo lograrlo.
+
+<img src="./Recursos/Multimedia/VidaResuelto.png">
+
+* Para que se vea bien lo he movido todo a la izquierda para que se pueda ver.
