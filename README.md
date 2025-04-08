@@ -4,6 +4,8 @@
 - [Índice](#índice)
 - [Introducción](#introducción)
 - [Conceptualización](#conceptualización)
+- [Problemas](#problemas)
+    - [Dificultades con los cactus y la vida](#dificultades-con-los-cactus-y-la-vida)
 
 
 # Introducción
