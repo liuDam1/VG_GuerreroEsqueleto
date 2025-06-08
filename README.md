@@ -61,3 +61,5 @@ A la hora de seguir los pasos de los apuntes, al llegar a la parte de cactus y d
 <img src="./Recursos/Multimedia/VidaResuelto.png">
 
 * Para que se vea bien lo he movido todo a la izquierda para que se pueda ver.
+
+>Archivo del juego: https://github.com/liuDam1/VG_Proyecto_JiangyuLiu.git
